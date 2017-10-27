@@ -1,0 +1,28 @@
+{
+  "name": "kashflow-soap-api",
+  "version": "0.0.1",
+  "description": "Wrapper around the Kashflow SOAP API to make it more node-like",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coggle/kashflow-api.git"
+  },
+  "keywords": [
+    "kashflow",
+    "api",
+    "soap",
+    "accounting"
+  ],
+  "author": "Andy Pritchard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Coggle/kashflow-api/issues"
+  },
+  "homepage": "https://github.com/Coggle/kashflow-api#readme",
+  "dependencies": {
+    "soap": "^0.23.0"
+  }
+}
