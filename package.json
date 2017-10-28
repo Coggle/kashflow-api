@@ -1,6 +1,6 @@
 {
   "name": "kashflow-soap-api",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Wrapper around the Kashflow SOAP API to make it more node-like",
   "main": "index.js",
   "scripts": {
